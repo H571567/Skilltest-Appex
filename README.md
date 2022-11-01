@@ -17,7 +17,7 @@ Denne siden viser detaljert all informasjon om bedriften basert på data fra Br�
 Liste av alle innlagte bedrifter. Du har også muligheten til å søke etter dem med orginasasjonsnummer. Skilles om de er potensiell kunde og nåværende kunde. Hver "Card" har en notat knapp. Av å klikke på den får man opp natatblokken som man har skrevet om den spesifikke bedriften.
 ![Screenshot_20221101_124523](https://user-images.githubusercontent.com/42601584/199226408-b00f1b18-148d-4082-844d-665b95795090.png)
 
-Udetaljert "Legg til kunde" side. Brukes til å legge til en bedrift. Her vil det være punkter man må notere i og noen man kan ignorerer.
+Udetaljert "Legg til kunde" side. Brukes til å legge til en bedrift. Her vil det være obligatoriske felt og valgfritt felt.
 ![Screenshot_20221101_124547](https://user-images.githubusercontent.com/42601584/199226420-1b30bfeb-503b-47c0-9f11-66376fc90423.png)
 
 Domain model
