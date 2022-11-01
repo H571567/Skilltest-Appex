@@ -19,3 +19,6 @@ Liste av alle innlagte bedrifter. Du har også muligheten til å søke etter dem
 
 Udetaljert "Legg til kunde" side. Brukes til å legge til en bedrift. Her vil det være punkter man må notere i og noen man kan ignorerer.
 ![Screenshot_20221101_124547](https://user-images.githubusercontent.com/42601584/199226420-1b30bfeb-503b-47c0-9f11-66376fc90423.png)
+
+Domain model
+![Screenshot_20221101_012842](https://user-images.githubusercontent.com/42601584/199232415-b1fa34f2-957d-4835-ae9f-9c32af14a4f0.png)
