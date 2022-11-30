@@ -1,0 +1,4 @@
+C:\Users\Daniel\source\repos\CompanyLibrary_Skilltest\CompanyLibrary_Skilltest\obj\Debug\companylibrary_skilltest.esproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\source\repos\CompanyLibrary_Skilltest\CompanyLibrary_Skilltest\obj\Debug\companylibrary_skilltest.esproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Skrivebord\Skilltest-Appex\CompanyLibrary_Skilltest\CompanyLibrary_Skilltest\obj\Debug\companylibrary_skilltest.esproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\OneDrive\Skrivebord\Skilltest-Appex\CompanyLibrary_Skilltest\CompanyLibrary_Skilltest\obj\Debug\companylibrary_skilltest.esproj.CoreCompileInputs.cache
